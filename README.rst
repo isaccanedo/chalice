@@ -114,8 +114,8 @@ que inclui python3.6, python3.7, python3.8, python3.9.
 Você pode encontrar as versões mais recentes do python no
 `Página de download do Python <https://www.python.org/downloads/>`_.
 
-To install Chalice, we'll first create and activate a virtual environment
-in python3.7::
+Para instalar o Chalice, vamos primeiro criar e ativar um ambiente virtual
+em python3.7::
 
     $ python3 --version
     Python 3.7.3
