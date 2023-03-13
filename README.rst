@@ -99,8 +99,8 @@ e o Chalice cuida da implantação do seu aplicativo.
 Up and running in less than 30 seconds.
 Give this project a try and share your feedback with us here on Github.
 
-The documentation is available
-`here <http://aws.github.io/chalice/>`__.
+A documentação está disponível
+`aqui <http://aws.github.io/chalice/>`__.
 
 Quickstart
 ==========
