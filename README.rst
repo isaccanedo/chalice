@@ -122,7 +122,7 @@ em python3.7::
     $ python3 -m venv venv37
     $ . venv37/bin/activate
 
-Next we'll install Chalice using ``pip``::
+A seguir vamos instalar o Chalice usando ``pip``::
 
     $ python3 -m pip install chalice
 
