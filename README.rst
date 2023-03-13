@@ -23,7 +23,7 @@ e implantar rapidamente aplicativos que usam o AWS Lambda. Ele fornece:
 * Geração automática de políticas de IAM
 
 
-You can create Rest APIs:
+Você pode criar APIs Rest:
 
 .. code-block:: python
 
