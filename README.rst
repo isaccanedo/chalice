@@ -82,7 +82,7 @@ Bem como uma fila SQS:
             print("Message body: %s" % record.body)
 
 
-And several other AWS resources.
+E vários outros recursos da AWS.
 
 Depois de escrever seu código, basta executar ``chalice deploy``
 e o Chalice cuida da implantação do seu aplicativo.
