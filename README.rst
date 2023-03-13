@@ -84,8 +84,8 @@ Bem como uma fila SQS:
 
 And several other AWS resources.
 
-Once you've written your code, you just run ``chalice deploy``
-and Chalice takes care of deploying your app.
+Depois de escrever seu código, basta executar ``chalice deploy``
+e o Chalice cuida da implantação do seu aplicativo.
 
 ::
 
