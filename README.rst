@@ -21,7 +21,7 @@ e implantar rapidamente aplicativos que usam o AWS Lambda. Ele fornece:
 * Uma ferramenta de linha de comando para criar, implantar e gerenciar seu aplicativo
 * Uma API baseada em decorador para integração com Amazon API Gateway, Amazon S3, 
 Amazon SNS, Amazon SQS e outros serviços da AWS.
-* Automatic IAM policy generation
+* Geração automática de políticas de IAM
 
 
 You can create Rest APIs:
