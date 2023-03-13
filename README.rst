@@ -35,7 +35,7 @@ You can create Rest APIs:
     def index():
         return {"hello": "world"}
 
-Tasks that run on a periodic basis:
+Tarefas executadas periodicamente:
 
 .. code-block:: python
 
