@@ -102,17 +102,17 @@ Experimente este projeto e compartilhe seus comentários conosco aqui no Github.
 A documentação está disponível
 `aqui <http://aws.github.io/chalice/>`__.
 
-Quickstart
+Começo rápido
 ==========
 
-.. quick-start-begin
+.. início rápido
 
-In this tutorial, you'll use the ``chalice`` command line utility
-to create and deploy a basic REST API.  This quickstart uses Python 3.7,
-but AWS Chalice supports all versions of python supported by AWS Lambda,
-which includes python3.6, python3.7, python3.8, python3.9.
-You can find the latest versions of python on the
-`Python download page <https://www.python.org/downloads/>`_.
+Neste tutorial, você usará o utilitário de linha de comando ``chalice``
+para criar e implantar uma API REST básica. Este início rápido usa Python 3.7,
+mas o AWS Chalice oferece suporte a todas as versões do python suportadas pelo AWS Lambda,
+que inclui python3.6, python3.7, python3.8, python3.9.
+Você pode encontrar as versões mais recentes do python no
+`Página de download do Python <https://www.python.org/downloads/>`_.
 
 To install Chalice, we'll first create and activate a virtual environment
 in python3.7::
