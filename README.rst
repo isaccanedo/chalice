@@ -15,8 +15,8 @@ AWS Chalice
    :alt: Chalice Logo
 
 
-Chalice is a framework for writing serverless apps in python. It allows
-you to quickly create and deploy applications that use AWS Lambda.  It provides:
+Chalice é uma estrutura para escrever aplicativos sem servidor em python. Ele permite criar 
+e implantar rapidamente aplicativos que usam o AWS Lambda. Ele fornece:
 
 * A command line tool for creating, deploying, and managing your app
 * A decorator based API for integrating with Amazon API Gateway, Amazon S3,
