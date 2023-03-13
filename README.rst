@@ -96,8 +96,8 @@ e o Chalice cuida da implantação do seu aplicativo.
     $ curl https://endpoint/api
     {"hello": "world"}
 
-Up and running in less than 30 seconds.
-Give this project a try and share your feedback with us here on Github.
+Instalado e funcionando em menos de 30 segundos.
+Experimente este projeto e compartilhe seus comentários conosco aqui no Github.
 
 The documentation is available
 `here <http://aws.github.io/chalice/>`__.
