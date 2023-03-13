@@ -126,7 +126,7 @@ Next we'll install Chalice using ``pip``::
 
     $ python3 -m pip install chalice
 
-You can verify you have chalice installed by running::
+Você pode verificar se o chalice está instalado executando::
 
     $ chalice --help
     Usage: chalice [OPTIONS] COMMAND [ARGS]...
