@@ -49,7 +49,7 @@ Tarefas executadas periodicamente:
         return {"hello": "world"}
 
 
-You can connect a lambda function to an S3 event:
+Você pode conectar uma função lambda a um evento S3:
 
 .. code-block:: python
 
