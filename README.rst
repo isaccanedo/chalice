@@ -65,7 +65,7 @@ Você pode conectar uma função lambda a um evento S3:
         print("Object uploaded for bucket: %s, key: %s"
               % (event.bucket, event.key))
 
-As well as an SQS queue:
+Bem como uma fila SQS:
 
 .. code-block:: python
 
