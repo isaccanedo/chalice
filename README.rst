@@ -177,7 +177,7 @@ diretório. Você verá que vários arquivos foram criados para você::
 Você pode ignorar o diretório ``.chalice`` por enquanto, os dois arquivos principais
 nos concentraremos em ``app.py`` e ``requirements.txt``.
 
-Let's take a look at the ``app.py`` file:
+Vamos dar uma olhada no arquivo app.py:
 
 .. code-block:: python
 
