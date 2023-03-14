@@ -196,7 +196,7 @@ single view, ``/``, that when called will return the JSON body
 ``{"hello": "world"}``.
 
 
-Deploying
+Implantando
 ---------
 
 Let's deploy this app.  Make sure you're in the ``helloworld``
