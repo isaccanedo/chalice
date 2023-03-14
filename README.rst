@@ -157,7 +157,7 @@ configuração de credenciais, consulte o
 <http://boto3.readthedocs.io/en/latest/guide/configuration.html>`__.
 
 
-Creating Your Project
+Criando seu projeto
 ---------------------
 
 The next thing we'll do is use the ``chalice`` command to create a new
