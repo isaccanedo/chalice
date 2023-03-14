@@ -160,8 +160,8 @@ configuração de credenciais, consulte o
 Criando seu projeto
 ---------------------
 
-The next thing we'll do is use the ``chalice`` command to create a new
-project::
+A próxima coisa que faremos é usar o comando ``chalice`` para criar um novo
+projeto::
 
     $ chalice new-project helloworld
 
