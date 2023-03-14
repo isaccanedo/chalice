@@ -165,8 +165,8 @@ projeto::
 
     $ chalice new-project helloworld
 
-This will create a ``helloworld`` directory.  Cd into this
-directory.  You'll see several files have been created for you::
+Isso criará um diretório ``helloworld``. CD para isso
+diretório. Você verá que vários arquivos foram criados para você::
 
     $ cd helloworld
     $ ls -la
