@@ -133,7 +133,7 @@ Você pode verificar se o chalice está instalado executando::
     ...
 
 
-Credentials
+Credenciais
 -----------
 
 Before you can deploy an application, be sure you have
