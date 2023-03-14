@@ -136,10 +136,10 @@ Você pode verificar se o chalice está instalado executando::
 Credenciais
 -----------
 
-Before you can deploy an application, be sure you have
-credentials configured.  If you have previously configured your
-machine to run boto3 (the AWS SDK for Python) or the AWS CLI then
-you can skip this section.
+Antes de implantar um aplicativo, certifique-se de ter
+credenciais configuradas. Se você já configurou seu
+máquina para executar o boto3 (o AWS SDK for Python) ou a AWS CLI
+você pode pular esta seção.
 
 If this is your first time configuring credentials for AWS you
 can follow these steps to quickly get started::
