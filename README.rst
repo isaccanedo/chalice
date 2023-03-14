@@ -174,8 +174,8 @@ diretório. Você verá que vários arquivos foram criados para você::
     -rw-r--r--   app.py
     -rw-r--r--   requirements.txt
 
-You can ignore the ``.chalice`` directory for now, the two main files
-we'll focus on is ``app.py`` and ``requirements.txt``.
+Você pode ignorar o diretório ``.chalice`` por enquanto, os dois arquivos principais
+nos concentraremos em ``app.py`` e ``requirements.txt``.
 
 Let's take a look at the ``app.py`` file:
 
