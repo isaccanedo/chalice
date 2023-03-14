@@ -141,8 +141,8 @@ credenciais configuradas. Se você já configurou seu
 máquina para executar o boto3 (o AWS SDK for Python) ou a AWS CLI
 você pode pular esta seção.
 
-If this is your first time configuring credentials for AWS you
-can follow these steps to quickly get started::
+Se esta é a primeira vez que configura credenciais para AWS, você
+pode seguir estas etapas para começar rapidamente::
 
     $ mkdir ~/.aws
     $ cat >> ~/.aws/config
