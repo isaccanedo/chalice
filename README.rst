@@ -151,8 +151,8 @@ can follow these steps to quickly get started::
     aws_secret_access_key=YOUR_SECRET_ACCESS_KEY
     region=YOUR_REGION (such as us-west-2, us-west-1, etc)
 
-If you want more information on all the supported methods for
-configuring credentials, see the
+Se você quiser mais informações sobre todos os métodos suportados para
+configuração de credenciais, consulte o
 `boto3 docs
 <http://boto3.readthedocs.io/en/latest/guide/configuration.html>`__.
 
