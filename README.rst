@@ -231,8 +231,8 @@ reimplantar suas alterações.
 Neste ponto, existem vários próximos passos que você pode tomar.
 
 * `Tutoriais <https://aws.github.io/chalice/tutorials/index.html>`__
-  - Choose from among several guided tutorials that will
-  give you step-by-step examples of various features of Chalice.
+  - Escolha entre vários tutoriais guiados que irão
+   dar-lhe exemplos passo a passo de vários recursos do Chalice.
 * `Topics <https://aws.github.io/chalice/topics/index.html>`__ - Deep
   dive into documentation on specific areas of Chalice.
   This contains more detailed documentation than the tutorials.
