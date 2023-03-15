@@ -252,7 +252,7 @@ it created when running the ``chalice deploy`` command.
     Deleting IAM Role helloworld-dev
 
 
-Feedback
+Opinião
 ========
 
 We'd also love to hear from you.  Please create any Github issues for
