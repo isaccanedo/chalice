@@ -236,9 +236,9 @@ Neste ponto, existem vários próximos passos que você pode tomar.
 * `Topicos <https://aws.github.io/chalice/topics/index.html>`__ - Profundo
    mergulhe na documentação sobre áreas específicas do Chalice.
  Isso contém documentação mais detalhada do que os tutoriais.
-* `API Reference <https://aws.github.io/chalice/api.html>`__ - Low level
-  reference documentation on all the classes and methods that are part of the
-  public API of Chalice.
+* `API Reference <https://aws.github.io/chalice/api.html>`__ - Nível baixo
+   documentação de referência sobre todas as classes e métodos que fazem parte do
+   API pública do Chalice.
 
 If you're done experimenting with Chalice and you'd like to cleanup, you can
 use the ``chalice delete`` command, and Chalice will delete all the resources
