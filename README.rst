@@ -224,9 +224,9 @@ function.  You can then redeploy your changes by running ``chalice deploy``.
 Próximos passos
 ----------
 
-You've now created your first app using ``chalice``.  You can make
-modifications to your ``app.py`` file and rerun ``chalice deploy`` to
-redeploy your changes.
+Agora você criou seu primeiro aplicativo usando ``chalice``. Você pode fazer
+modificações em seu arquivo ``app.py`` e execute novamente ``chalice deploy`` para
+reimplantar suas alterações.
 
 At this point, there are several next steps you can take.
 
