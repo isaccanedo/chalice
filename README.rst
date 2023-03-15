@@ -228,7 +228,7 @@ Agora você criou seu primeiro aplicativo usando ``chalice``. Você pode fazer
 modificações em seu arquivo ``app.py`` e execute novamente ``chalice deploy`` para
 reimplantar suas alterações.
 
-At this point, there are several next steps you can take.
+Neste ponto, existem vários próximos passos que você pode tomar.
 
 * `Tutorials <https://aws.github.io/chalice/tutorials/index.html>`__
   - Choose from among several guided tutorials that will
