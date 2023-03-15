@@ -216,8 +216,8 @@ Agora você tem uma API funcionando usando API Gateway e Lambda::
     $ curl https://qxea58oupc.execute-api.us-west-2.amazonaws.com/api/
     {"hello": "world"}
 
-Try making a change to the returned dictionary from the ``index()``
-function.  You can then redeploy your changes by running ``chalice deploy``.
+Tente fazer uma alteração no dicionário retornado do ``index()``
+função. Você pode reimplantar suas alterações executando ``chalice deploy``.
 
 .. quick-start-end
 
