@@ -255,7 +255,7 @@ criado ao executar o comando ``chalice deploy``.
 Opinião
 ========
 
-We'd also love to hear from you.  Please create any Github issues for
-additional features you'd like to see over at
-https://github.com/aws/chalice/issues.  You can also chat with us
-on gitter: https://gitter.im/awslabs/chalice
+Também adoraríamos ouvir de você. Por favor, crie quaisquer problemas do Github para
+recursos adicionais que você gostaria de ver em
+https://github.com/aws/chalice/issues. Você também pode conversar conosco
+no gitter: https://gitter.im/awslabs/chalice
