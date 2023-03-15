@@ -221,7 +221,7 @@ function.  You can then redeploy your changes by running ``chalice deploy``.
 
 .. quick-start-end
 
-Next Steps
+Próximos passos
 ----------
 
 You've now created your first app using ``chalice``.  You can make
