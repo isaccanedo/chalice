@@ -230,7 +230,7 @@ reimplantar suas alterações.
 
 Neste ponto, existem vários próximos passos que você pode tomar.
 
-* `Tutorials <https://aws.github.io/chalice/tutorials/index.html>`__
+* `Tutoriais <https://aws.github.io/chalice/tutorials/index.html>`__
   - Choose from among several guided tutorials that will
   give you step-by-step examples of various features of Chalice.
 * `Topics <https://aws.github.io/chalice/topics/index.html>`__ - Deep
