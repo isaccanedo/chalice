@@ -240,9 +240,9 @@ Neste ponto, existem vários próximos passos que você pode tomar.
    documentação de referência sobre todas as classes e métodos que fazem parte do
    API pública do Chalice.
 
-If you're done experimenting with Chalice and you'd like to cleanup, you can
-use the ``chalice delete`` command, and Chalice will delete all the resources
-it created when running the ``chalice deploy`` command.
+Se você já experimentou o Chalice e gostaria de limpá-lo, você pode
+use o comando ``chalice delete``, e o Chalice irá deletar todos os recursos
+criado ao executar o comando ``chalice deploy``.
 
 ::
 
