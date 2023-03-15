@@ -199,8 +199,8 @@ visão única, ``/``, que quando chamada retornará o corpo JSON
 Implantando
 ---------
 
-Let's deploy this app.  Make sure you're in the ``helloworld``
-directory and run ``chalice deploy``::
+Vamos implantar este aplicativo. Verifique se você está no ``helloworld``
+diretório e execute ``chalice deploy``::
 
     $ chalice deploy
     Creating deployment package.
