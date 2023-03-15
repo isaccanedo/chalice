@@ -191,9 +191,9 @@ Vamos dar uma olhada no arquivo app.py:
         return {'hello': 'world'}
 
 
-The ``new-project`` command created a sample app that defines a
-single view, ``/``, that when called will return the JSON body
-``{"hello": "world"}``.
+O comando ``new-project`` criou um aplicativo de amostra que define um
+visão única, ``/``, que quando chamada retornará o corpo JSON
+``{"olá": "mundo"}``.
 
 
 Implantando
