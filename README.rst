@@ -235,7 +235,7 @@ Neste ponto, existem vários próximos passos que você pode tomar.
    dar-lhe exemplos passo a passo de vários recursos do Chalice.
 * `Topicos <https://aws.github.io/chalice/topics/index.html>`__ - Profundo
    mergulhe na documentação sobre áreas específicas do Chalice.
-  This contains more detailed documentation than the tutorials.
+ Isso contém documentação mais detalhada do que os tutoriais.
 * `API Reference <https://aws.github.io/chalice/api.html>`__ - Low level
   reference documentation on all the classes and methods that are part of the
   public API of Chalice.
