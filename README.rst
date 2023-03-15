@@ -211,7 +211,7 @@ diretório e execute ``chalice deploy``::
       - Lambda ARN: arn:aws:lambda:us-west-2:12345:function:helloworld-dev
       - Rest API URL: https://abcd.execute-api.us-west-2.amazonaws.com/api/
 
-You now have an API up and running using API Gateway and Lambda::
+Agora você tem uma API funcionando usando API Gateway e Lambda::
 
     $ curl https://qxea58oupc.execute-api.us-west-2.amazonaws.com/api/
     {"hello": "world"}
