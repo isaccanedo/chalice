@@ -250,12 +250,3 @@ criado ao executar o comando ``chalice deploy``.
     Deleting Rest API: abcd4kwyl4
     Deleting function aws:arn:lambda:region:123456789:helloworld-dev
     Deleting IAM Role helloworld-dev
-
-
-Opinião
-========
-
-Também adoraríamos ouvir de você. Por favor, crie quaisquer problemas do Github para
-recursos adicionais que você gostaria de ver em
-https://github.com/aws/chalice/issues. Você também pode conversar conosco
-no gitter: https://gitter.im/awslabs/chalice
