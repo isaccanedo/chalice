@@ -233,10 +233,10 @@ Neste ponto, existem vários próximos passos que você pode tomar.
 * `Tutoriais <https://aws.github.io/chalice/tutorials/index.html>`__
   - Escolha entre vários tutoriais guiados que irão
    dar-lhe exemplos passo a passo de vários recursos do Chalice.
-* `Topicos <https://aws.github.io/chalice/topics/index.html>`__ - Profundo
+* `Tópicos <https://aws.github.io/chalice/topics/index.html>`__ - Profundo
    mergulhe na documentação sobre áreas específicas do Chalice.
  Isso contém documentação mais detalhada do que os tutoriais.
-* `API Reference <https://aws.github.io/chalice/api.html>`__ - Nível baixo
+* `API Referência <https://aws.github.io/chalice/api.html>`__ - Nível baixo
    documentação de referência sobre todas as classes e métodos que fazem parte do
    API pública do Chalice.
 
